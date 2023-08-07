@@ -55,7 +55,7 @@ if ( (vrx_data > 490)  &&   (vrx_data < 510)   )
   
 }
  
- 
+//stepper motor moves anticlockwise 
 if ((vrx_data > 900)  && ((vrz_data > 490)  &&   (vrz_data < 530)) )
 {
  
@@ -67,7 +67,7 @@ x = x + 1;
  
  
  
- 
+//stepper motor moves clockwise
 if ( (vrx_data < 100)  && ((vrz_data > 490)  &&   (vrz_data < 530))  )
 {
 myStepper1.step(StepsPerRevolution);
