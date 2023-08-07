@@ -47,13 +47,7 @@ Serial.print("Vrx:");
 Serial.println(vrx_data); 
  
  
-// // to stop the stepper motor
-// if (vrx_data > 900 && vrz_data > 900 && vrx_data < 100 && vrz_data < 100)
-// {
-// exit;
-
-// }
-
+// to stop the stepper motor
 if ( (vrx_data > 490)  &&   (vrx_data < 510)   )
 {
  
