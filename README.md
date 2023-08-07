@@ -1,5 +1,5 @@
 # Diploma-Project_Semi-automated-Parking-System
-The following code was used for my Diploma Project. Youtube Link : https://youtu.be/1N0b3VP3fA8
+The following code was uploaded into Arduino and used for my Diploma Project. Youtube Link : https://youtu.be/1N0b3VP3fA8
 
 The code was made by Chee Kah Wai.
 
