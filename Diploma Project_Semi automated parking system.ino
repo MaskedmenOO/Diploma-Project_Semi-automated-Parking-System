@@ -18,9 +18,6 @@ int vrz_data = 0;
 
 int x=0;
 int z=0;
-
-
- // joystick
  
  void setup() {
  // Sets the two pins as Outputs
