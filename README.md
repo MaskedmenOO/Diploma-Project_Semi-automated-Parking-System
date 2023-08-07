@@ -9,6 +9,4 @@ As the Arduino can only control one CNC shield which only controls 3 stepper mot
 
 The stepper motors are controlled by the joysticks. Based on the position of the joystick, a certain value is it's output. Therefore, when the joystick is in between a certain value, the stepper motor will either turn clockwise or anticlockwise which causes the scissor lift in the parking platform to move. 
 
-The whole code is very simple using only "if statements".
-
 This code was modified based on another code: https://www.electroniclinic.com/arduino-cnc-shield-v3-0-and-a4988-hybrid-stepper-motor-driver-joystick/
