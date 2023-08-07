@@ -4,8 +4,6 @@
   const int dirPinX = 5; // X.DIR
   const int stepPinZ =4;
   const int dirPinZ =7;
-  const int stepPinY=3;
-  const int dirPinY=6;
 
 Stepper myStepper1(StepsPerRevolution, stepPinX, dirPinX );
 Stepper myStepper2(StepsPerRevolution, stepPinZ, dirPinZ );
